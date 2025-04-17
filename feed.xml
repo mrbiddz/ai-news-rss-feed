@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Notion RSS Feed</title>
+    <link>https://github.com/mrbiddz/ai-news-rss-feed/new/main</link>
+    <description>RSS feed generated from Notion database</description>
+    <language>en</language>
+    <!-- Items will be added here by the automated script -->
+  </channel>
+</rss>
